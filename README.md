@@ -1,4 +1,5 @@
-# Cursus-42
+# Cursus 42 - libft
+## _Some words about my journey:_
 Eureka! I Started 42.
 
 I’ve always been fascinated by calculators, computers, and gadgets. I just wish I had gotten into systems, coding, and algorithms earlier. I was first introduced to coding during my first semester as a Robotics student, and even though I didn’t continue with Robotics, I don’t see that as a failure. Those two semesters actually sparked my interest in programming.
@@ -11,5 +12,5 @@ Libft is my very first project since the Piscine, and it’s laid the foundation
 
 It's beautiful how a simple statement that we speak can be elaborated in code that machine understands and follows. Magical! 
 
-Most Recent Project: 
-Libft - 100% "ft_split" may have memory issues. 
+## Project:
+**libft** - 100% "ft_split" may have memory issues. 
